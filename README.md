@@ -1,49 +1,9 @@
 
 <div align="center">
 
-# ⚡ ANONIM1346
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:003322&text=ANONIM1346&fontColor=00FF9C&fontSize=55&fontAlignY=45&desc=DEVELOPER%20%7C%20CHAK%20PROJECTS&descAlignY=65&descSize=18"/>
 
-### Developer • Independent Projects • CHAK
-
-Building tools, software and digital experiences.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+CHAK+Projects;Python+%7C+Go+%7C+Web;Turning+ideas+into+software" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- Independent developer working on personal software projects.
-- Interested in automation, backend development and web technologies.
-- Building **CHAK** — a collection of software projects.
-- Focused on learning, experimenting and improving code.
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🚀 Projects
-
-| Project | Description |
-|---|---|
-| CHAK | Software ecosystem |
-| OSINT Tool | Information analysis tools |
-| Personal Projects | Experiments and applications |
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anonim1346&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonim1346&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=550&lines=Initializing+CHAK...;Building+software+%26+tools;Python+%7C+Go+%7C+Web+Development;Welcome+to+my+GitHub" />
 
 </div>
 
@@ -51,6 +11,44 @@ Building tools, software and digital experiences.
 
 <div align="center">
 
-### ⚡ Building. Learning. Improving.
+### `SYSTEM PROFILE`
+
+</div>
+
+```text
+USER       : ANONIM1346
+PROJECT    : CHAK
+ROLE       : INDEPENDENT DEVELOPER
+FOCUS      : SOFTWARE / AUTOMATION / WEB
+STATUS     : BUILDING
+```
+
+### `TECHNOLOGIES`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,html,css,js,git,github,vscode&theme=dark"/>
+
+</div>
+
+### `GITHUB ANALYTICS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anonim1346&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonim1346&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anonim1346&theme=dark&hide_border=true&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF9C"/>
+
+`CHAK // END OF TRANSMISSION`
 
 </div>
